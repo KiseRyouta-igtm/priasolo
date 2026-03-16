@@ -7,9 +7,9 @@ Pria Solo
 
 ## Anggota Kelompok
 
-1. Muhamad Farhan Athallasyah Sahasika Gumilang - Project Manager
+1. Aditya Bagas Bramatyo Kuzaky - Project Manager
 2. Muhamad Farhan Athallasyah Sahasika Gumilang - Front-End Developer
-3. Muhamad Farhan Athallasyah Sahasika Gumilang - Back-End Developer
+3. Achmad Fardani - Back-End Developer
 
 ## Deskripsi Repository
 
